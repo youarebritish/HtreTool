@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtreTool", "HtreTool\HtreTool.csproj", "{1F2256D1-3539-4CD3-A888-D9532DB3F816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2256D1-3539-4CD3-A888-D9532DB3F816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2256D1-3539-4CD3-A888-D9532DB3F816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2256D1-3539-4CD3-A888-D9532DB3F816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2256D1-3539-4CD3-A888-D9532DB3F816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBC5183-EF6C-4E74-A0C3-A806C86C3AE9}
+	EndGlobalSection
+EndGlobal
